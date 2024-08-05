@@ -377,6 +377,19 @@ footer img {
 .rsvp p {
     color: var(--color-principal);
 }
+.END {
+    height: auto;
+    color: var(--color-secundario);
+    text-align: center;
+    padding: 10px 0 20px 0;
+
+}
+.END p {
+    font-size: 1.3rem;
+    max-width: 280px;
+    padding: 10px 0 16px 0  ;
+    margin: auto;
+}
 @media (max-width: 600px) {
     header {
         background-size: cover;
